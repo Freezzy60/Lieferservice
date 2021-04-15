@@ -47,8 +47,8 @@ namespace Lieferservice
                         Console.Clear();
                         Console.WriteLine("==========================");
                         Console.WriteLine($"Contents of the basket.:\n{WarenKorb.Inhalt} ");
-                        Console.WriteLine($"Topping price:{WarenKorb.ToppingPreis}");
-                        Console.WriteLine($"Total price = {WarenKorb.GesamtPreis} Euro");
+                        Console.WriteLine($"Topping price EUR:{WarenKorb.ToppingPreis}");
+                        Console.WriteLine($"Total price:{WarenKorb.GesamtPreis} Euro");
                         Console.WriteLine("==========================");
                         Console.WriteLine("[0]Menu, [1]Order, [2]Shopping cart, [3]Kassa, [4]Exit");
                         break;

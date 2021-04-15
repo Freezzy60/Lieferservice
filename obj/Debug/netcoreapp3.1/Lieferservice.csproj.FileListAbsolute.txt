@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\oop\oop\Lieferservice\bin\Debug\netcoreapp3.1\Lieferservice.exe
+C:\Users\Admin\source\repos\oop\oop\Lieferservice\bin\Debug\netcoreapp3.1\Lieferservice.deps.json
+C:\Users\Admin\source\repos\oop\oop\Lieferservice\bin\Debug\netcoreapp3.1\Lieferservice.runtimeconfig.json
+C:\Users\Admin\source\repos\oop\oop\Lieferservice\bin\Debug\netcoreapp3.1\Lieferservice.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\oop\oop\Lieferservice\bin\Debug\netcoreapp3.1\Lieferservice.dll
+C:\Users\Admin\source\repos\oop\oop\Lieferservice\bin\Debug\netcoreapp3.1\Lieferservice.pdb
+C:\Users\Admin\source\repos\oop\oop\Lieferservice\obj\Debug\netcoreapp3.1\Lieferservice.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\oop\oop\Lieferservice\obj\Debug\netcoreapp3.1\Lieferservice.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\oop\oop\Lieferservice\obj\Debug\netcoreapp3.1\Lieferservice.AssemblyInfo.cs
+C:\Users\Admin\source\repos\oop\oop\Lieferservice\obj\Debug\netcoreapp3.1\Lieferservice.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\oop\oop\Lieferservice\obj\Debug\netcoreapp3.1\Lieferservice.dll
+C:\Users\Admin\source\repos\oop\oop\Lieferservice\obj\Debug\netcoreapp3.1\Lieferservice.pdb
+C:\Users\Admin\source\repos\oop\oop\Lieferservice\obj\Debug\netcoreapp3.1\Lieferservice.genruntimeconfig.cache
